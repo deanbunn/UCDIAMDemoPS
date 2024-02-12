@@ -1,5 +1,6 @@
 # Protect Config File
 config.json
+configdemo.json
 
 # Protect Report Files
 *.csv
